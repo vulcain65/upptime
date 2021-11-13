@@ -7,8 +7,8 @@ sites:
     url: https://e-berga.info
   - name: motards-en-voyage.com
     url: https://motards-en-voyage.com
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: b.emdayo
+    url: https://b.emdayo.fr/
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
