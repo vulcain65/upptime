@@ -5,8 +5,8 @@ repo: upptime # The name of this repository
 sites:
   - name: e-berga
     url: https://e-berga.info
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: motards-en-voyage.com
+    url: https://motards-en-voyage.com
   - name: Hacker News
     url: https://news.ycombinator.com
   - name: Test Broken Site
