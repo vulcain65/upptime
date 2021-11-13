@@ -1,6 +1,5 @@
-# Change these first
-owner: vulcain65 # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: vulcain65
+repo: upptime
 
 sites:
   - name: e-berga
@@ -11,9 +10,6 @@ sites:
     url: https://b.emdayo.fr/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Vulcain
@@ -21,10 +17,7 @@ status-website:
   introTitle: ""
   introMessage: ""
   navbar:
-    #- title: Status
-    #  href: /$REPO
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+i18n:
+  footer: ""
