@@ -40,7 +40,7 @@
     "url": "https://b.emdayo.fr/",
     "icon": "https://favicons.githubusercontent.com/b.emdayo.fr",
     "slug": "b-emdayo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "97.76%",
     "uptimeWeek": "99.68%",
@@ -48,10 +48,11 @@
     "uptimeYear": "99.94%",
     "time": 778,
     "timeDay": 709,
-    "timeWeek": 810,
+    "timeWeek": 789,
     "timeMonth": 774,
     "timeYear": 778,
     "dailyMinutesDown": {
+      "2021-12-22": 0,
       "2021-12-21": 32
     }
   }
