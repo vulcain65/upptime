@@ -4,36 +4,40 @@
     "url": "https://e-berga.info",
     "icon": "https://favicons.githubusercontent.com/e-berga.info",
     "slug": "e-berga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 525,
-    "timeWeek": 711,
-    "timeMonth": 834,
-    "timeYear": 844,
-    "dailyMinutesDown": {}
+    "time": 851,
+    "timeDay": 912,
+    "timeWeek": 784,
+    "timeMonth": 848,
+    "timeYear": 851,
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "motards-en-voyage",
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://favicons.githubusercontent.com/motards-en-voyage.com",
     "slug": "motards-en-voyage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 617,
-    "timeDay": 350,
-    "timeWeek": 566,
-    "timeMonth": 643,
-    "timeYear": 617,
-    "dailyMinutesDown": {}
+    "time": 626,
+    "timeDay": 777,
+    "timeWeek": 646,
+    "timeMonth": 660,
+    "timeYear": 626,
+    "dailyMinutesDown": {
+      "2022-01-15": 0
+    }
   },
   {
     "name": "b.emdayo",
