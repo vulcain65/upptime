@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/e-berga.info",
     "slug": "e-berga",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 853,
-    "timeDay": 948,
-    "timeWeek": 810,
-    "timeMonth": 853,
-    "timeYear": 853,
-    "dailyMinutesDown": {
-      "2022-01-15": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 850,
+    "timeDay": 975,
+    "timeWeek": 821,
+    "timeMonth": 846,
+    "timeYear": 850,
+    "dailyMinutesDown": {}
   },
   {
     "name": "motards-en-voyage",
@@ -25,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/motards-en-voyage.com",
     "slug": "motards-en-voyage",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 628,
-    "timeDay": 781,
-    "timeWeek": 662,
-    "timeMonth": 664,
-    "timeYear": 628,
-    "dailyMinutesDown": {
-      "2022-01-15": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 625,
+    "timeDay": 809,
+    "timeWeek": 664,
+    "timeMonth": 659,
+    "timeYear": 625,
+    "dailyMinutesDown": {}
   },
   {
     "name": "b.emdayo",
@@ -50,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 763,
-    "timeDay": 631,
-    "timeWeek": 694,
-    "timeMonth": 754,
-    "timeYear": 763,
+    "time": 760,
+    "timeDay": 553,
+    "timeWeek": 696,
+    "timeMonth": 739,
+    "timeYear": 760,
     "dailyMinutesDown": {
       "2021-12-21": 32
     }
