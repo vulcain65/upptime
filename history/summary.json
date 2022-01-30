@@ -4,9 +4,9 @@
     "url": "https://e-berga.info",
     "icon": "https://favicons.githubusercontent.com/e-berga.info",
     "slug": "e-berga",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 840,
     "timeMonth": 816,
     "timeYear": 843,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-30": 0
+    }
   },
   {
     "name": "motards-en-voyage",
