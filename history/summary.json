@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.79%",
+    "uptimeYear": "71.81%",
     "time": 778,
     "timeDay": 617,
     "timeWeek": 765,
@@ -123,8 +123,7 @@
       "2022-02-12": 1440,
       "2022-02-11": 1440,
       "2022-02-10": 1440,
-      "2022-02-09": 1440,
-      "2022-02-08": 1440
+      "2022-02-09": 1440
     }
   },
   {
@@ -158,18 +157,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "down",
-    "uptime": "94.79%",
+    "uptime": "94.78%",
     "uptimeDay": "22.17%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "95.27%",
-    "uptimeYear": "93.58%",
+    "uptimeWeek": "78.42%",
+    "uptimeMonth": "95.03%",
+    "uptimeYear": "93.56%",
     "time": 907,
     "timeDay": 1545,
     "timeWeek": 1628,
     "timeMonth": 1605,
     "timeYear": 947,
     "dailyMinutesDown": {
-      "2023-02-07": 1087,
+      "2023-02-08": 72,
+      "2023-02-07": 1120,
       "2023-02-06": 983,
       "2022-12-09": 16,
       "2022-11-24": 1107,
