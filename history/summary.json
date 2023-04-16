@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
     "status": "up",
-    "uptime": "78.49%",
+    "uptime": "78.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "89.87%",
-    "time": 758,
-    "timeDay": 639,
-    "timeWeek": 815,
-    "timeMonth": 706,
+    "uptimeYear": "90.14%",
+    "time": 757,
+    "timeDay": 742,
+    "timeWeek": 827,
+    "timeMonth": 712,
     "timeYear": 750,
     "dailyMinutesDown": {
       "2023-03-25": 17,
@@ -59,8 +59,7 @@
       "2022-04-20": 1440,
       "2022-04-19": 1440,
       "2022-04-18": 1440,
-      "2022-04-17": 1440,
-      "2022-04-16": 1440
+      "2022-04-17": 1440
     }
   },
   {
@@ -75,9 +74,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 585,
-    "timeDay": 452,
-    "timeWeek": 528,
-    "timeMonth": 535,
+    "timeDay": 525,
+    "timeWeek": 537,
+    "timeMonth": 534,
     "timeYear": 573,
     "dailyMinutesDown": {
       "2023-03-25": 17,
@@ -94,16 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "up",
-    "uptime": "94.89%",
+    "uptime": "94.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "94.24%",
-    "time": 995,
-    "timeDay": 1231,
-    "timeWeek": 1552,
+    "uptimeYear": "94.51%",
+    "time": 996,
+    "timeDay": 1614,
+    "timeWeek": 1606,
     "timeMonth": 1561,
-    "timeYear": 1105,
+    "timeYear": 1107,
     "dailyMinutesDown": {
       "2023-03-21": 25,
       "2023-02-19": 45,
@@ -136,8 +135,7 @@
       "2022-07-14": 735,
       "2022-07-11": 877,
       "2022-04-22": 1196,
-      "2022-04-21": 504,
-      "2022-04-16": 1175
+      "2022-04-21": 504
     }
   }
 ]
