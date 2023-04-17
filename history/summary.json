@@ -6,17 +6,16 @@
     "slug": "e-berga",
     "status": "up",
     "uptime": "78.57%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "90.39%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "90.41%",
     "time": 757,
     "timeDay": 763,
     "timeWeek": 880,
     "timeMonth": 714,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-04-16": 7,
       "2023-03-25": 17,
       "2023-02-14": 26,
       "2023-02-09": 83,
@@ -59,8 +58,7 @@
       "2022-04-21": 1440,
       "2022-04-20": 1440,
       "2022-04-19": 1440,
-      "2022-04-18": 1440,
-      "2022-04-17": 1440
+      "2022-04-18": 1440
     }
   },
   {
@@ -70,9 +68,9 @@
     "slug": "motards-en-voyage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 585,
     "timeDay": 637,
@@ -80,7 +78,6 @@
     "timeMonth": 538,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2023-04-16": 7,
       "2023-03-25": 17,
       "2023-02-09": 54,
       "2022-07-25": 16,
