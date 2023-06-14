@@ -8,6 +8,8 @@ sites:
     url: https://motards-en-voyage.com//robots.txt
   - name: b.emdayo
     url: https://b.emdayo.fr/
+  - name: o.emdayo
+    url: https://o.emdayo.fr/
 
 status-website:
   baseUrl: /upptime
