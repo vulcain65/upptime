@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
     "status": "up",
-    "uptime": "81.21%",
+    "uptime": "81.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 755,
-    "timeDay": 624,
-    "timeWeek": 631,
-    "timeMonth": 753,
+    "timeDay": 786,
+    "timeWeek": 677,
+    "timeMonth": 757,
     "timeYear": 757,
     "dailyMinutesDown": {
       "2023-03-25": 17,
@@ -23,8 +23,7 @@
       "2022-08-25": 16,
       "2022-08-02": 90,
       "2022-08-01": 4,
-      "2022-07-25": 17,
-      "2022-06-30": 23
+      "2022-07-25": 17
     }
   },
   {
@@ -39,15 +38,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 571,
-    "timeDay": 442,
-    "timeWeek": 477,
-    "timeMonth": 511,
-    "timeYear": 560,
+    "timeDay": 662,
+    "timeWeek": 510,
+    "timeMonth": 519,
+    "timeYear": 561,
     "dailyMinutesDown": {
       "2023-03-25": 17,
       "2023-02-09": 54,
-      "2022-07-25": 16,
-      "2022-06-30": 23
+      "2022-07-25": 16
     }
   },
   {
@@ -56,16 +54,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "up",
-    "uptime": "95.50%",
+    "uptime": "95.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "94.99%",
-    "time": 1086,
-    "timeDay": 1226,
-    "timeWeek": 1315,
-    "timeMonth": 1416,
-    "timeYear": 1253,
+    "time": 1088,
+    "timeDay": 1793,
+    "timeWeek": 1408,
+    "timeMonth": 1434,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2023-05-24": 253,
       "2023-05-20": 16,
@@ -113,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 521,
-    "timeDay": 381,
-    "timeWeek": 491,
-    "timeMonth": 521,
-    "timeYear": 521,
+    "time": 527,
+    "timeDay": 637,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   }
 ]
