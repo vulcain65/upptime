@@ -54,7 +54,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "up",
-    "uptime": "95.56%",
+    "uptime": "95.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -105,19 +105,19 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 526,
-    "timeDay": 399,
-    "timeWeek": 522,
-    "timeMonth": 526,
-    "timeYear": 526,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 528,
+    "timeDay": 484,
+    "timeWeek": 528,
+    "timeMonth": 528,
+    "timeYear": 528,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 8
     }
   }
 ]
