@@ -6,9 +6,9 @@
     "slug": "e-berga",
     "status": "up",
     "uptime": "83.15%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 767,
     "timeDay": 893,
@@ -16,7 +16,6 @@
     "timeMonth": 863,
     "timeYear": 767,
     "dailyMinutesDown": {
-      "2023-09-04": 7,
       "2023-03-25": 17,
       "2023-02-14": 26,
       "2023-02-09": 83,
@@ -30,9 +29,9 @@
     "slug": "motards-en-voyage",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
     "time": 563,
     "timeDay": 449,
@@ -40,7 +39,6 @@
     "timeMonth": 568,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2023-09-04": 7,
       "2023-09-01": 32,
       "2023-03-25": 17,
       "2023-02-09": 54
@@ -103,9 +101,9 @@
     "slug": "o-emdayo",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 590,
     "timeDay": 663,
@@ -113,7 +111,6 @@
     "timeMonth": 637,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2023-09-04": 6,
       "2023-08-31": 20
     }
   }
