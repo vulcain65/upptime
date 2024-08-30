@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
     "status": "up",
-    "uptime": "89.07%",
+    "uptime": "89.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 848,
-    "timeDay": 664,
-    "timeWeek": 740,
-    "timeMonth": 820,
+    "timeDay": 746,
+    "timeWeek": 747,
+    "timeMonth": 805,
     "timeYear": 870,
     "dailyMinutesDown": {
       "2024-06-28": 33,
@@ -41,9 +41,9 @@
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.94%",
     "time": 547,
-    "timeDay": 490,
-    "timeWeek": 540,
-    "timeMonth": 532,
+    "timeDay": 496,
+    "timeWeek": 547,
+    "timeMonth": 535,
     "timeYear": 552,
     "dailyMinutesDown": {
       "2024-08-01": 81,
@@ -68,9 +68,9 @@
     "uptimeMonth": "97.00%",
     "uptimeYear": "98.62%",
     "time": 1537,
-    "timeDay": 1151,
-    "timeWeek": 1537,
-    "timeMonth": 1567,
+    "timeDay": 1233,
+    "timeWeek": 1521,
+    "timeMonth": 1568,
     "timeYear": 1551,
     "dailyMinutesDown": {
       "2024-08-17": 371,
@@ -107,9 +107,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 597,
-    "timeDay": 497,
+    "timeDay": 495,
     "timeWeek": 562,
-    "timeMonth": 611,
+    "timeMonth": 612,
     "timeYear": 599,
     "dailyMinutesDown": {
       "2024-06-28": 33,
@@ -120,8 +120,7 @@
       "2023-10-25": 16,
       "2023-09-12": 28,
       "2023-09-11": 5,
-      "2023-09-06": 15,
-      "2023-08-31": 20
+      "2023-09-06": 15
     }
   }
 ]
