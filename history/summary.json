@@ -41,7 +41,7 @@
     "timeDay": 2408,
     "timeWeek": 777,
     "timeMonth": 618,
-    "timeYear": 559,
+    "timeYear": 560,
     "dailyMinutesDown": {
       "2024-08-01": 81,
       "2024-06-28": 53,
@@ -54,9 +54,9 @@
     "url": "https://b.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
-    "status": "up",
+    "status": "down",
     "uptime": "96.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.64%",
@@ -66,6 +66,7 @@
     "timeMonth": 1586,
     "timeYear": 1554,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-08-17": 371,
       "2024-08-16": 203,
       "2024-08-02": 273,
