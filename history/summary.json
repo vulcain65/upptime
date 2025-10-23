@@ -11,10 +11,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.86%",
     "time": 879,
-    "timeDay": 664,
-    "timeWeek": 782,
-    "timeMonth": 853,
-    "timeYear": 882,
+    "timeDay": 954,
+    "timeWeek": 824,
+    "timeMonth": 851,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2025-10-08": 23,
       "2025-10-05": 19,
@@ -32,8 +32,7 @@
       "2025-02-28": 42,
       "2024-12-31": 26,
       "2024-11-03": 19,
-      "2024-10-27": 21,
-      "2024-10-23": 15
+      "2024-10-27": 21
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.89%",
     "time": 577,
-    "timeDay": 554,
-    "timeWeek": 536,
-    "timeMonth": 580,
-    "timeYear": 580,
+    "timeDay": 724,
+    "timeWeek": 583,
+    "timeMonth": 579,
+    "timeYear": 581,
     "dailyMinutesDown": {
       "2025-10-08": 23,
       "2025-10-05": 19,
@@ -75,16 +74,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1332,
-    "timeDay": 1812,
-    "timeWeek": 1326,
-    "timeMonth": 1337,
-    "timeYear": 1261,
+    "timeDay": 1561,
+    "timeWeek": 1410,
+    "timeMonth": 1338,
+    "timeYear": 1262,
     "dailyMinutesDown": {
       "2025-09-10": 49,
       "2025-09-08": 18,
@@ -118,10 +117,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
     "time": 602,
-    "timeDay": 473,
-    "timeWeek": 589,
+    "timeDay": 792,
+    "timeWeek": 633,
     "timeMonth": 560,
-    "timeYear": 596,
+    "timeYear": 597,
     "dailyMinutesDown": {
       "2025-10-08": 23,
       "2025-10-05": 19,
@@ -139,8 +138,7 @@
       "2025-02-28": 26,
       "2024-10-31": 20,
       "2024-10-25": 18,
-      "2024-10-24": 19,
-      "2024-10-23": 22
+      "2024-10-24": 19
     }
   }
 ]
