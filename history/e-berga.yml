@@ -1,7 +1,7 @@
 url: https://e-berga.info
-status: up
-code: 200
-responseTime: 1123
-lastUpdated: 2025-12-13T05:55:02.793Z
+status: down
+code: 503
+responseTime: 432
+lastUpdated: 2025-12-13T18:19:50.925Z
 startTime: 2021-11-13T19:55:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
