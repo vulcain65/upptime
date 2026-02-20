@@ -4,17 +4,17 @@
     "url": "https://e-berga.info",
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.24%",
+    "uptimeDay": "95.23%",
     "uptimeWeek": "95.09%",
     "uptimeMonth": "95.86%",
     "uptimeYear": "99.30%",
     "time": 856,
-    "timeDay": 949,
-    "timeWeek": 848,
-    "timeMonth": 785,
-    "timeYear": 866,
+    "timeDay": 886,
+    "timeWeek": 840,
+    "timeMonth": 783,
+    "timeYear": 865,
     "dailyMinutesDown": {
       "2026-02-20": 41,
       "2026-02-19": 27,
@@ -74,7 +74,7 @@
       "2025-12-05": 34,
       "2025-12-04": 98,
       "2025-12-02": 50,
-      "2025-11-29": 45
+      "2025-11-29": 16
     }
   },
   {
@@ -82,17 +82,17 @@
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/motards-en-voyage.com.ico",
     "slug": "motards-en-voyage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "95.24%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "95.09%",
     "uptimeMonth": "96.00%",
-    "uptimeYear": "99.30%",
-    "time": 603,
-    "timeDay": 627,
+    "uptimeYear": "99.31%",
+    "time": 604,
+    "timeDay": 631,
     "timeWeek": 660,
     "timeMonth": 623,
-    "timeYear": 609,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2026-02-20": 41,
       "2026-02-19": 28,
@@ -152,7 +152,7 @@
       "2025-12-05": 34,
       "2025-12-04": 98,
       "2025-12-02": 50,
-      "2025-11-29": 73
+      "2025-11-29": 44
     }
   },
   {
@@ -194,15 +194,15 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "95.23%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "95.09%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "99.30%",
     "time": 607,
     "timeDay": 654,
-    "timeWeek": 637,
+    "timeWeek": 638,
     "timeMonth": 615,
     "timeYear": 611,
     "dailyMinutesDown": {
@@ -264,8 +264,7 @@
       "2025-12-05": 34,
       "2025-12-04": 98,
       "2025-12-02": 50,
-      "2025-11-29": 58,
-      "2025-11-26": 22
+      "2025-11-29": 58
     }
   }
 ]
