@@ -4,15 +4,15 @@
     "url": "https://e-berga.info",
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.76%",
+    "uptimeDay": "92.74%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.11%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "99.12%",
     "time": 837,
-    "timeDay": 498,
-    "timeWeek": 655,
+    "timeDay": 586,
+    "timeWeek": 665,
     "timeMonth": 707,
     "timeYear": 812,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
       "2026-01-22": 29,
       "2026-01-21": 34,
       "2026-01-18": 55,
-      "2026-01-17": 87
+      "2026-01-17": 37
     }
   },
   {
@@ -76,16 +76,16 @@
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/motards-en-voyage.com.ico",
     "slug": "motards-en-voyage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.76%",
+    "uptimeDay": "92.74%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "95.73%",
-    "uptimeYear": "99.11%",
+    "uptimeMonth": "95.85%",
+    "uptimeYear": "99.12%",
     "time": 605,
-    "timeDay": 496,
-    "timeWeek": 636,
-    "timeMonth": 603,
+    "timeDay": 557,
+    "timeWeek": 640,
+    "timeMonth": 604,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2026-04-01": 104,
@@ -140,8 +140,7 @@
       "2026-01-22": 29,
       "2026-01-21": 34,
       "2026-01-18": 55,
-      "2026-01-17": 87,
-      "2026-01-16": 50
+      "2026-01-17": 87
     }
   },
   {
@@ -189,15 +188,15 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "92.76%",
+    "status": "down",
+    "uptime": "99.69%",
+    "uptimeDay": "92.74%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "95.60%",
-    "uptimeYear": "99.11%",
+    "uptimeMonth": "95.72%",
+    "uptimeYear": "99.12%",
     "time": 610,
-    "timeDay": 543,
-    "timeWeek": 631,
+    "timeDay": 586,
+    "timeWeek": 635,
     "timeMonth": 618,
     "timeYear": 613,
     "dailyMinutesDown": {
@@ -254,8 +253,7 @@
       "2026-01-22": 29,
       "2026-01-21": 34,
       "2026-01-18": 55,
-      "2026-01-17": 87,
-      "2026-01-16": 50
+      "2026-01-17": 87
     }
   }
 ]
