@@ -4,18 +4,19 @@
     "url": "https://e-berga.info",
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.94%",
+    "uptimeDay": "91.93%",
     "uptimeWeek": "97.15%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "99.08%",
+    "uptimeMonth": "96.60%",
+    "uptimeYear": "99.09%",
     "time": 836,
-    "timeDay": 987,
-    "timeWeek": 761,
-    "timeMonth": 716,
+    "timeDay": 942,
+    "timeWeek": 756,
+    "timeMonth": 714,
     "timeYear": 807,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 116,
       "2026-04-09": 100,
       "2026-04-06": 45,
@@ -67,8 +68,7 @@
       "2026-01-29": 31,
       "2026-01-28": 95,
       "2026-01-26": 82,
-      "2026-01-25": 17,
-      "2026-01-23": 24
+      "2026-01-25": 17
     }
   },
   {
@@ -76,18 +76,19 @@
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/motards-en-voyage.com.ico",
     "slug": "motards-en-voyage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "91.93%",
+    "uptimeDay": "91.92%",
     "uptimeWeek": "97.15%",
-    "uptimeMonth": "96.45%",
+    "uptimeMonth": "96.60%",
     "uptimeYear": "99.09%",
     "time": 606,
-    "timeDay": 710,
-    "timeWeek": 622,
-    "timeMonth": 621,
+    "timeDay": 697,
+    "timeWeek": 621,
+    "timeMonth": 624,
     "timeYear": 612,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 116,
       "2026-04-09": 100,
       "2026-04-06": 45,
@@ -140,8 +141,7 @@
       "2026-01-28": 95,
       "2026-01-26": 82,
       "2026-01-25": 17,
-      "2026-01-23": 24,
-      "2026-01-22": 29
+      "2026-01-23": 24
     }
   },
   {
@@ -189,18 +189,19 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "91.93%",
+    "uptimeDay": "91.92%",
     "uptimeWeek": "97.15%",
-    "uptimeMonth": "96.32%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "99.09%",
     "time": 609,
-    "timeDay": 591,
-    "timeWeek": 570,
-    "timeMonth": 616,
+    "timeDay": 586,
+    "timeWeek": 569,
+    "timeMonth": 615,
     "timeYear": 613,
     "dailyMinutesDown": {
+      "2026-04-11": 0,
       "2026-04-10": 116,
       "2026-04-09": 100,
       "2026-04-06": 45,
@@ -254,8 +255,7 @@
       "2026-01-28": 95,
       "2026-01-26": 82,
       "2026-01-25": 17,
-      "2026-01-23": 24,
-      "2026-01-22": 29
+      "2026-01-23": 24
     }
   }
 ]
