@@ -6,15 +6,15 @@
     "slug": "e-berga",
     "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "76.54%",
+    "uptimeDay": "76.50%",
     "uptimeWeek": "80.51%",
     "uptimeMonth": "79.41%",
     "uptimeYear": "97.54%",
     "time": 802,
     "timeDay": 629,
     "timeWeek": 604,
-    "timeMonth": 628,
-    "timeYear": 773,
+    "timeMonth": 626,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2026-03-07": 54,
       "2026-03-08": 65,
@@ -72,7 +72,7 @@
       "2026-06-19": 185,
       "2026-06-20": 908,
       "2026-06-22": 337,
-      "2026-06-23": 0
+      "2026-06-23": 1
     }
   },
   {
@@ -80,16 +80,16 @@
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/motards-en-voyage.com.ico",
     "slug": "motards-en-voyage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "76.58%",
+    "uptimeDay": "76.54%",
     "uptimeWeek": "80.53%",
     "uptimeMonth": "79.43%",
     "uptimeYear": "97.54%",
     "time": 601,
-    "timeDay": 544,
-    "timeWeek": 554,
-    "timeMonth": 536,
+    "timeDay": 573,
+    "timeWeek": 560,
+    "timeMonth": 537,
     "timeYear": 605,
     "dailyMinutesDown": {
       "2026-03-07": 54,
@@ -179,7 +179,7 @@
       "2026-03-20": 286,
       "2026-03-28": 70,
       "2026-03-31": 22,
-      "2026-06-23": 1,
+      "2026-06-23": 2,
       "2026-06-22": 1440,
       "2026-06-21": 1440,
       "2026-06-20": 1440,
@@ -257,16 +257,16 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "76.63%",
-    "uptimeWeek": "80.55%",
-    "uptimeMonth": "79.46%",
+    "uptimeDay": "76.58%",
+    "uptimeWeek": "80.54%",
+    "uptimeMonth": "79.45%",
     "uptimeYear": "97.54%",
     "time": 603,
-    "timeDay": 569,
-    "timeWeek": 591,
-    "timeMonth": 552,
+    "timeDay": 607,
+    "timeWeek": 600,
+    "timeMonth": 554,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2026-03-07": 37,
@@ -326,7 +326,7 @@
       "2026-06-19": 184,
       "2026-06-20": 907,
       "2026-06-22": 336,
-      "2026-06-23": 0
+      "2026-06-23": 1
     }
   }
 ]
