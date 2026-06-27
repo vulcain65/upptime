@@ -4,17 +4,17 @@
     "url": "https://e-berga.info",
     "icon": "https://icons.duckduckgo.com/ip3/e-berga.info.ico",
     "slug": "e-berga",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.07%",
+    "uptimeDay": "88.32%",
     "uptimeWeek": "85.38%",
-    "uptimeMonth": "79.16%",
-    "uptimeYear": "97.43%",
+    "uptimeMonth": "79.01%",
+    "uptimeYear": "97.42%",
     "time": 800,
-    "timeDay": 511,
-    "timeWeek": 617,
-    "timeMonth": 625,
-    "timeYear": 771,
+    "timeDay": 488,
+    "timeWeek": 607,
+    "timeMonth": 622,
+    "timeYear": 770,
     "dailyMinutesDown": {
       "2026-03-09": 76,
       "2026-03-11": 95,
@@ -74,7 +74,7 @@
       "2026-06-23": 11,
       "2026-06-25": 130,
       "2026-06-26": 103,
-      "2026-06-27": 1
+      "2026-06-27": 69
     }
   },
   {
@@ -82,17 +82,17 @@
     "url": "https://motards-en-voyage.com//robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/motards-en-voyage.com.ico",
     "slug": "motards-en-voyage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "93.09%",
+    "uptimeDay": "88.35%",
     "uptimeWeek": "85.40%",
-    "uptimeMonth": "79.18%",
-    "uptimeYear": "97.43%",
+    "uptimeMonth": "79.03%",
+    "uptimeYear": "97.42%",
     "time": 601,
-    "timeDay": 452,
-    "timeWeek": 561,
-    "timeMonth": 530,
-    "timeYear": 605,
+    "timeDay": 443,
+    "timeWeek": 554,
+    "timeMonth": 529,
+    "timeYear": 604,
     "dailyMinutesDown": {
       "2026-03-09": 76,
       "2026-03-11": 95,
@@ -152,7 +152,7 @@
       "2026-06-23": 11,
       "2026-06-25": 129,
       "2026-06-26": 103,
-      "2026-06-27": 1
+      "2026-06-27": 69
     }
   },
   {
@@ -165,7 +165,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.54%",
+    "uptimeYear": "79.53%",
     "time": 1310,
     "timeDay": 0,
     "timeWeek": 0,
@@ -183,7 +183,7 @@
       "2026-03-20": 286,
       "2026-03-28": 70,
       "2026-03-31": 22,
-      "2026-06-27": 710,
+      "2026-06-27": 779,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
@@ -265,17 +265,17 @@
     "url": "https://o.emdayo.fr/",
     "icon": "https://icons.duckduckgo.com/ip3/o.emdayo.fr.ico",
     "slug": "o-emdayo",
-    "status": "down",
+    "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "93.13%",
+    "uptimeDay": "88.38%",
     "uptimeWeek": "85.42%",
-    "uptimeMonth": "79.21%",
-    "uptimeYear": "97.43%",
+    "uptimeMonth": "79.05%",
+    "uptimeYear": "97.42%",
     "time": 603,
-    "timeDay": 450,
-    "timeWeek": 550,
-    "timeMonth": 546,
-    "timeYear": 604,
+    "timeDay": 444,
+    "timeWeek": 544,
+    "timeMonth": 545,
+    "timeYear": 603,
     "dailyMinutesDown": {
       "2026-03-09": 37,
       "2026-03-11": 95,
@@ -336,7 +336,7 @@
       "2026-06-23": 10,
       "2026-06-25": 129,
       "2026-06-26": 103,
-      "2026-06-27": 0
+      "2026-06-27": 69
     }
   }
 ]
