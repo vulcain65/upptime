@@ -6,16 +6,17 @@
     "slug": "e-berga",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "95.04%",
-    "uptimeMonth": "94.70%",
+    "uptimeDay": "93.13%",
+    "uptimeWeek": "95.16%",
+    "uptimeMonth": "94.87%",
     "uptimeYear": "97.16%",
     "time": 777,
-    "timeDay": 899,
+    "timeDay": 878,
     "timeWeek": 1023,
-    "timeMonth": 935,
+    "timeMonth": 941,
     "timeYear": 774,
     "dailyMinutesDown": {
+      "2026-04-19": 29,
       "2026-04-20": 63,
       "2026-04-21": 59,
       "2026-04-22": 131,
@@ -73,7 +74,7 @@
       "2026-07-27": 4,
       "2026-08-01": 152,
       "2026-08-02": 236,
-      "2026-08-04": 111
+      "2026-08-04": 99
     }
   },
   {
@@ -83,16 +84,17 @@
     "slug": "motards-en-voyage",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "92.30%",
-    "uptimeWeek": "95.05%",
-    "uptimeMonth": "94.71%",
-    "uptimeYear": "97.17%",
+    "uptimeDay": "93.14%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "94.88%",
+    "uptimeYear": "97.16%",
     "time": 604,
-    "timeDay": 491,
+    "timeDay": 490,
     "timeWeek": 523,
-    "timeMonth": 633,
+    "timeMonth": 635,
     "timeYear": 606,
     "dailyMinutesDown": {
+      "2026-04-19": 29,
       "2026-04-20": 63,
       "2026-04-21": 59,
       "2026-04-22": 131,
@@ -150,7 +152,7 @@
       "2026-07-27": 4,
       "2026-08-01": 152,
       "2026-08-02": 236,
-      "2026-08-04": 111
+      "2026-08-04": 99
     }
   },
   {
@@ -159,11 +161,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/b.emdayo.fr.ico",
     "slug": "b-emdayo",
     "status": "down",
-    "uptime": "91.44%",
+    "uptime": "91.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.99%",
+    "uptimeYear": "68.97%",
     "time": 1308,
     "timeDay": 0,
     "timeWeek": 0,
@@ -181,7 +183,8 @@
       "2026-03-20": 286,
       "2026-03-28": 70,
       "2026-03-31": 22,
-      "2026-08-04": 1436,
+      "2026-08-05": 146,
+      "2026-08-04": 1440,
       "2026-08-03": 1440,
       "2026-08-02": 1440,
       "2026-08-01": 1440,
@@ -303,16 +306,17 @@
     "slug": "o-emdayo",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "92.33%",
-    "uptimeWeek": "95.06%",
-    "uptimeMonth": "94.72%",
+    "uptimeDay": "93.15%",
+    "uptimeWeek": "95.17%",
+    "uptimeMonth": "94.89%",
     "uptimeYear": "97.17%",
     "time": 607,
-    "timeDay": 597,
+    "timeDay": 629,
     "timeWeek": 538,
     "timeMonth": 586,
     "timeYear": 605,
     "dailyMinutesDown": {
+      "2026-04-19": 29,
       "2026-04-20": 63,
       "2026-04-21": 59,
       "2026-04-22": 131,
@@ -370,7 +374,7 @@
       "2026-07-27": 3,
       "2026-08-01": 152,
       "2026-08-02": 236,
-      "2026-08-04": 111
+      "2026-08-04": 99
     }
   }
 ]
